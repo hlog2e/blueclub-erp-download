@@ -1,0 +1,7 @@
+User-agent: Yeti
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://hlog2e.github.io/blueclub-erp-download/sitemap.xml
