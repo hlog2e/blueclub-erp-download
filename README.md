@@ -4,7 +4,7 @@
 
 ## 받기
 
-- [Blueclub-ERP-Setup-0.1.0.exe](https://github.com/hlog2e/blueclub-erp-download/releases/download/v0.1.0/Blueclub-ERP-Setup-0.1.0.exe) (Windows 10·11 64비트, 119MB)
+- [Blueclub-ERP-Setup-0.1.1.exe](https://github.com/hlog2e/blueclub-erp-download/releases/download/v0.1.1/Blueclub-ERP-Setup-0.1.1.exe) (Windows 10·11 64비트, 119MB)
 - 지난 버전은 [Releases](https://github.com/hlog2e/blueclub-erp-download/releases)에 있습니다.
 
 ## 설치
@@ -21,6 +21,6 @@
 
 | 파일 | 크기 | SHA-256 |
 |---|---|---|
-| Blueclub-ERP-Setup-0.1.0.exe | 124,916,034바이트 | `91ffdf048387b04de2e97d097770440f3f36838b0afcf2eb17a6bf5c6ea3fa46` |
+| Blueclub-ERP-Setup-0.1.1.exe | 125,147,574바이트 | `bec860b87509bf2c272f8cf583bc68f0df173b8ae4b8c5721e0c617fb50affef` |
 
 만든 곳 ludi
